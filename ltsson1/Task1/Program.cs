@@ -8,3 +8,5 @@ int i = 1;
     i += 1;
  }
  
+
+ Console.WriteLine("Егор лох");
