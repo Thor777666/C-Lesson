@@ -18,3 +18,5 @@ while (j < arr2.Length){
     j += 1;
 }
 
+
+Console.Write("пиривет");
